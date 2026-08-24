@@ -1,0 +1,16 @@
+{
+      "name": "Vaishnavi Computer Centre",
+        "short_name": "VCC Paro",
+          "start_url": "./",
+            "display": "standalone",
+              "background_color": "#ffffff",
+                "theme_color": "#0a3d62",
+                  "icons": [
+                        {
+                                  "src": "https://cdn-icons-png.flaticon.com/512/3135/3135755.png",
+                                        "sizes": "512x512",
+                                              "type": "image/png"
+                        }
+                  ]
+}
+                        
